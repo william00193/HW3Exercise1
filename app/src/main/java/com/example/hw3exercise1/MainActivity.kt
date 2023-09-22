@@ -132,6 +132,7 @@ class MainActivity : AppCompatActivity() {
     }
 
 
+//Logs to see in console where application is at during processing
     override fun onStart() {
         super.onStart()
         Log.d(TAG, "onStart() called")
