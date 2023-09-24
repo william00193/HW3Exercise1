@@ -24,7 +24,7 @@ private const val TAG = "MainActivity"
 class MainActivity : AppCompatActivity() {
 
 
-    //creating a variable for the binding
+//creating a variable for the binding
     private lateinit var binding: ActivityMainBinding
 
 
